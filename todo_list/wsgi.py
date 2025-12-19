@@ -1,5 +1,5 @@
 """
-WSGI config for todo_list project.
+WSGI config for m project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
